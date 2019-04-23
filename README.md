@@ -36,7 +36,7 @@ DEBUG=pup:* npm start
 ## Examples
 There is a GraphiQL browser based interface running on the stage server @Heroku.
 
-https://pupmoney-backend-graphQL.heroku.com/graphql
+https://pupmoney-backend-graphql.herokuapp.com/graphql/
 
 *A simple example:*
 ```
@@ -55,3 +55,8 @@ https://pupmoney-backend-graphQL.heroku.com/graphql
 ```
 
 More calls can be found in the ./src/schema.js file.
+
+## Sources
+https://graphql.github.io/graphql-js/object-types/
+
+https://graphql.org/learn/schema/

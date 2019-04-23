@@ -2,7 +2,7 @@
 A GraphQL interface for PupMoney that will replace the REST endpoints. 
 >NOTE: This GraphQL interface is early development
 
-This is a Nodejs/Express/GraphQL project in early developmemt. The GraphQL calls will be developed in parallel with the REST endpoints. Both wil remain in production.
+This is a Nodejs/Express/GraphQL project in early developmemt. The GraphQL calls will be developed in parallel with the REST endpoints which are already complete. Both will remain in production.
 
 
 ## Startup
